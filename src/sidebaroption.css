@@ -1,0 +1,21 @@
+.SidebarOption{
+	display: flex;
+	align-items: center;
+	height: 40px;
+	cursor: pointer;
+}
+
+
+.title
+{ 	transition: 200ms color ease-in;
+ }
+.title:hover {
+color:white;
+
+}
+
+.SidebarOption_icon{
+margin-right: 9px;
+
+
+}
